@@ -18,11 +18,11 @@
 
 <a href="https://www.linkedin.com/in/k-m-suhas-8b7658364/" target="_blank">
   <img align="center"
-       src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
-       alt="LinkedIn"
+       src="https://img.icons8.com/color/48/linkedin.png"
        height="30"
-       width="40" />
+       width="30"/>
 </a>
+
 
 </p>
 
