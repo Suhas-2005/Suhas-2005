@@ -16,10 +16,12 @@
        alt="LeetCode" height="30" width="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/k-m-suhas-8b7658364/" target="blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" 
-       alt="LinkedIn" height="30" width="40" />
+<a href="https://www.linkedin.com/in/k-m-suhas-8b7658364/" target="_blank">
+  <img align="center"
+       src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+       alt="LinkedIn"
+       height="30"
+       width="40" />
 </a>
 
 </p>
